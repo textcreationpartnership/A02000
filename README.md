@@ -36,77 +36,165 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Galateo espagnol, or, The Spanish gallant instructing thee in that which thou must doe, and take hee
+Galateo Espanol Ano Dō 1640Tho: Croſse fecitReader ſtopp heere, Firſt fix thine eye,On this quainte
+1. To the high, Noble, and
+moſt Illuſtrious:
+CHARLES,
+Prince of Wales, &c.
+
+1. The Approbation.
+
+1. The Approbation.
+
+1. To
+The right illuſtrious Lord,
+Micer Franciſco Bonnet, Viceroy
+of Catalunna, and
+Counſellour of
+Barcelona.
+
+1. To
+The right illuſtrious
+Lord, Goncales Argeto de
+Molina, Provinciall, and grand
+Iuſticiar, for his Majeſty, for the
+holy brotherhood, of Andaluſia:
+Lord of the Townes, of Veros,
+and Dagancuelo: and of the
+Caſtle of Gildolid. Alderman
+of Civill,
+&c.
+
+1. To the Reader.
+
+1. A Sonet of Galves de Montalvo,
+on the Booke.
+
+1. A Sonet of Doctor Franciſco
+de Campuſana.
+
+1. A Sonet of Lope de Vega to
+the Author.
+
+1. A Sonet to the Author.
+
+1. A Sonet of Lycenciado Gaſpar
+de Morales.
+
 #####Body#####
 
-1. How we ought to be clothed.
+1. THE AUTHOR
+directeth this work,
+to one of his Brothers: adviſing
+him what hee ought to
+doe, and what he ought to ſhun, in
+his ordinary carriage, to be
+well eſteemed, and beloved
+of the People.
 
-1. Of punctualities and neatneſſe.
+1. CHAPTER. 2. Of other things, contrary to the phanſy
+and good liking.
 
-1. That men ought to ſpeake with reverence
+    _ How we ought to be clothed.
+
+1. CHAPTER. 3. Of thoſe that are unſavoury in their
+deedes and actions.
+
+    _ Of punctualities and neatneſſe.
+
+1. CHAPTER. 4. How wee ought to ſpeake.
+
+    _ That men ought to ſpeake with reverence
 in things appertayning unto
 God.
 
-1. A dreame of example:
+1. CHAPTER, 5. Of thoſe that ſet themſelves to tell their
+dreames.
 
-1. Of Bablers.
+    _ A dreame of example:
 
-1. Firſt Ceremonie for profit.
+1. CHAPTER, 6. Of Lyars.
 
-1. Secondly, Ceremonie for vanity.
+1. CHAPTER, 7. Of Gaming.
 
-1. Thirdly, Ceremonie for Obligation.
+1. CHAPTER, 8. Of Boaſting.
 
-1. Of kiſſing the handes.
+    _ Of Bablers.
 
-1. Of the Title Sereniſſimo.
+1. CHAPTER, 9. Of Ceremonies.
 
-1. Of thoſe who inſteed of ſpeaking elegantly
+    _ Firſt Ceremonie for profit.
+
+    _ Secondly, Ceremonie for vanity.
+
+    _ Thirdly, Ceremonie for Obligation.
+
+    _ Of kiſſing the handes.
+
+    _ Of the Title Sereniſſimo.
+
+1. CHAPTER. 10. Of affected words, That in our common
+talke, we ought not to uſe Latine,
+or other words of another tongue.
+
+    _ Of thoſe who inſteed of ſpeaking elegantly
 doe ſpeake nonſenſe.
 
-1. That wee ought as little to ſpeake ill of
+1. CHAPTER 11. Of Amplifications.
+
+    _ That wee ought as little to ſpeake ill of
 any, nor ought our jeſting, and jeeres
 to bee biting.
 
-1. Of domineerers and confident people.
+    _ Of domineerers and confident people.
 
-1. Fortune-tellers.
+    _ Fortune-tellers.
 
-1. Of thoſe that are alwayes giving counſell.
+    _ Of thoſe that are alwayes giving counſell.
 
-1. Of contemning others.
+    _ Of contemning others.
 
-1. Of thoſe that take offence at words.
+    _ Of thoſe that take offence at words.
 
-1. That jeſts ſhould not bee ſpoken to prejudice
+    _ That jeſts ſhould not bee ſpoken to prejudice
 any body.
 
-1. Of thoſe that make jeſts and know
+    _ Of thoſe that make jeſts and know
 not of it.
 
-1. Formes of Jeſts.
+    _ Formes of Jeſts.
 
-1. Heavy Ieeres.
+    _ Heavy Ieeres.
 
-1. How you may know a good jeſt.
+    _ How you may know a good jeſt.
 
-1. Of making a witty and ready anſwer.
+    _ Of making a witty and ready anſwer.
 
-1. To know how to ſpeake well.
+1. CHAPTER, 12. Of ſpeaking ſet ſpeeches.
 
-1. To uſe propriety of words.
+    _ To know how to ſpeake well.
 
-1. Of Compariſons.
+    _ To uſe propriety of words.
 
-1. The tale of the great Soldan, and of
+    _ Of Compariſons.
+
+1. CHAPTER. 13. Of Novellaes and Tales.
+
+    _ The tale of the great Soldan, and of
 the loves of the beautifull Axa and
 the Prince of Naples.
 
-1. The end of the Tale, and proceeding of
+    _ The end of the Tale, and proceeding of
 the Author, in his matter.
 
+1. CHAPTER. 14. Of thoſe that have no abilities to it, and
+yet will needs be Poets.
+
+1. CHAPTER, 15. Of Compotations or Drinkings.
+
 #####Back#####
-Galateo espagnol, or, The Spanish gallant instructing thee in that which thou must doe, and take hee
+Imprimatur
+Tho. Wykes.
 **Types of content**
 
   * There are 111 **verse** lines!
